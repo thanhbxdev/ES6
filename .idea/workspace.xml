@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5afefd74-f36e-49ad-a285-48e393ea9329" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/axiosClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/axiosClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/categoryAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/categoryAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/productAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/productAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ListCategory.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ListCategory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ListProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ListProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AboutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminBlogAddPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminBlogEditPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminBlogPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminCategoryAddPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminCategoryEdit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminCategoryPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminProductAddPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminProductEditPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminProductPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CategoryPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CategoryPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Homepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Homepage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductsPage.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sn7VbNlx2z9WkD56LV2MTmwFMF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="F:\FPT Polytechnic\2021 Spring\WEB501-Lập trình ECMAScript\Assignment\frontend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5afefd74-f36e-49ad-a285-48e393ea9329" name="Default Changelist" comment="" />
+      <created>1621496524421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621496524421</updated>
+      <workItem from="1621496525824" duration="29000" />
+      <workItem from="1621498524097" duration="9000" />
+      <workItem from="1621501465097" duration="370000" />
+      <workItem from="1621574231420" duration="734000" />
+      <workItem from="1622123680328" duration="353000" />
+      <workItem from="1622516918450" duration="28000" />
+      <workItem from="1622612168635" duration="659000" />
+      <workItem from="1622626470640" duration="130000" />
+      <workItem from="1622820553238" duration="1616000" />
+      <workItem from="1622900551757" duration="1235000" />
+      <workItem from="1622902375969" duration="2872000" />
+      <workItem from="1622906531353" duration="1001000" />
+      <workItem from="1622963565324" duration="3609000" />
+      <workItem from="1622969284020" duration="1109000" />
+      <workItem from="1622971668366" duration="3408000" />
+      <workItem from="1623042453307" duration="126000" />
+      <workItem from="1623155830954" duration="1551000" />
+      <workItem from="1623216683305" duration="447000" />
+      <workItem from="1623506905617" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
